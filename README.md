@@ -1,3 +1,3 @@
 # manas
 this is my first git repo
-Author - Manas Sahgal
+Author - Manas Sahgal (it profectional)
